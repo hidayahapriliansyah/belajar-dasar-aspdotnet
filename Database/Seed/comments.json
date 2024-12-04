@@ -1,0 +1,16 @@
+{
+  "comments": [
+    {
+      "id": "2e4c0a47-d3f5-4961-b7f4-e4a7d3f03a92",
+      "content": "This is a comment on the thread",
+      "user_id": "b1a2b52f-01f1-47f5-8cf2-e87f0bb86c9a",
+      "thread_post_id": "6c73cc8b-8dbf-4a0a-bae1-7068bb10132b"
+    },
+    {
+      "id": "cb9d147d-8edb-46f7-8121-f7f815d2c321",
+      "content": "This is another comment on the thread",
+      "user_id": "f8a56b5c-238d-4d77-b4d4-d24dbcc507f6",
+      "thread_post_id": "6c73cc8b-8dbf-4a0a-bae1-7068bb10132b"
+    }
+  ]
+}

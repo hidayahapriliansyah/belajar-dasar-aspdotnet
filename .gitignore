@@ -1,0 +1,92 @@
+# .NET Core/SDK
+.vs/
+.vscode/
+.idea/
+# User-specific files
+.idea/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (x64)
+x64/
+
+# Windows Installer files (x86)
+x86/
+
+# Windows Installer files (arm)
+arm/
+
+# Windows Installer files (arm64)
+arm64/
+
+# User-specific files for JetBrains Rider
+.idea/
+
+# JetBrains Rider project files
+.idea/
+
+# .NET build directories
+bin/
+obj/
+
+# ASP.NET Core
+wwwroot/
+node_modules/
+
+# Local database files
+app.db
+app.db-journal
+
+# User secrets file (don't track sensitive data)
+secrets/
+
+# VS for Mac
+.vscode/
+
+# .NET Core / Visual Studio for Mac / Rider
+.idea/
+
+# ASP.NET Core temporary files
+*.db
+*.bak
+*.backup
+
+# Entity Framework Core Migrations
+Migrations/
+
+# SQLite
+*.db
+
+# Windows Installer files
+*.cab
+*.msi
+
+# Windows Installer temporary files
+*~
+
+# Windows Installer build files
+*~
+
+# JetBrains Rider
+.idea/
+
+# Rider project folders
+.idea/
+
+# Visual Studio for Mac
+.vscode/
+.idea/
+
+# NuGet configuration
+.nuget/
+
+# .NET Core temporary files
+*.tmp
+*.temp
+*.bak
+*.backup

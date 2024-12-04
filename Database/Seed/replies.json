@@ -1,0 +1,28 @@
+{
+  "replies": [
+    {
+      "id": "d512eeb7-bf83-47f9-8369-1c1ea595b488",
+      "content": "This is a reply to the first comment",
+      "user_id": "f8a56b5c-238d-4d77-b4d4-d24dbcc507f6",
+      "comment_id": "2e4c0a47-d3f5-4961-b7f4-e4a7d3f03a92"
+    },
+    {
+      "id": "fa0a06a0-024f-4965-bb84-fdb5e65d17c6",
+      "content": "This is another reply to the first comment",
+      "user_id": "b1a2b52f-01f1-47f5-8cf2-e87f0bb86c9a",
+      "comment_id": "2e4c0a47-d3f5-4961-b7f4-e4a7d3f03a92"
+    },
+    {
+      "id": "e832a68b-b595-4135-9d59-6f37e0eb636f",
+      "content": "This is a reply to the second comment",
+      "user_id": "b1a2b52f-01f1-47f5-8cf2-e87f0bb86c9a",
+      "comment_id": "cb9d147d-8edb-46f7-8121-f7f815d2c321"
+    },
+    {
+      "id": "139cb839-6b7b-4dbe-85e5-2dbf3b1701f9",
+      "content": "This is another reply to the second comment",
+      "user_id": "f8a56b5c-238d-4d77-b4d4-d24dbcc507f6",
+      "comment_id": "cb9d147d-8edb-46f7-8121-f7f815d2c321"
+    }
+  ]
+}
